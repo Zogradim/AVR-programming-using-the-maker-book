@@ -1,3 +1,6 @@
+###This is a program about digital output using buttons ###
+
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <pinDefines.h>
