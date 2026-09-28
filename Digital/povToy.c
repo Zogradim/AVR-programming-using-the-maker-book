@@ -1,4 +1,4 @@
-###This is a program about digital output using buttons ###
+//This is a program about digital output using buttons//
 
 
 #include <avr/io.h>
