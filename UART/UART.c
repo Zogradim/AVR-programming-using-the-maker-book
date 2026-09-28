@@ -1,7 +1,5 @@
 /*
-A simple test of serial-port functionality.
-Takes in a character at a time and sends it right back out,
- displaying the ASCII value on the LEDs.
+Using 8 leds and serial communcation i could depict the value of the character i send from keyboard, in ascii on leds on the breadboard
 */
 
 // ------- Preamble -------- //
